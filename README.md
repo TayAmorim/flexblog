@@ -1,8 +1,8 @@
-#🔗FlexBox
+# FlexBox🔗
 
 ⚙️O Flexbox fornece ferramentas para criação rápida de layouts complexos e flexíveis, e características que se mostraram historicamente difíceis com CSS.
 
-###Projeto
+## Projeto
 
 Aplicação criada para demonstração na prática das propriedades do Flexbox:
 
